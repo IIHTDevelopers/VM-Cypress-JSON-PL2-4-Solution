@@ -1,0 +1,122 @@
+<test-cases>
+  <cases xmlns:java="http://java.sun.com" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="java:com.assessment.data.TestCase">
+    <test-case-type>Suite</test-case-type>
+    <expected-ouput>true</expected-ouput>
+    <name>automationSuiteForYakshaApplication-Ts-1:VerifySuccesfullyLogin</name>
+    <weight>2</weight>
+    <mandatory>true</mandatory>
+    <desc>na</desc>
+  </cases>
+  <cases xmlns:java="http://java.sun.com" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="java:com.assessment.data.TestCase">
+    <test-case-type>Suite</test-case-type>
+    <expected-ouput>true</expected-ouput>
+    <name>automationSuiteForYakshaApplication-Ts-2:VerifyAPopupSayingEmployeeOnLeaveTodayAppearsOnClickingTheSettingIcon</name>
+    <weight>2</weight>
+    <mandatory>true</mandatory>
+    <desc>na</desc>
+  </cases>
+  <cases xmlns:java="http://java.sun.com" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="java:com.assessment.data.TestCase">
+    <test-case-type>Suite</test-case-type>
+    <expected-ouput>true</expected-ouput>
+    <name>automationSuiteForYakshaApplication-Ts-3:VerifyUrlEndpointShouldContainSelectedTabFromTheSidebar</name>
+    <weight>2</weight>
+    <mandatory>true</mandatory>
+    <desc>na</desc>
+  </cases>
+  <cases xmlns:java="http://java.sun.com" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="java:com.assessment.data.TestCase">
+    <test-case-type>Suite</test-case-type>
+    <expected-ouput>true</expected-ouput>
+    <name>automationSuiteForYakshaApplication-Ts-4:VerifyTheSearchFunctionality</name>
+    <weight>2</weight>
+    <mandatory>true</mandatory>
+    <desc>na</desc>
+  </cases>
+  <cases xmlns:java="http://java.sun.com" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="java:com.assessment.data.TestCase">
+    <test-case-type>Suite</test-case-type>
+    <expected-ouput>true</expected-ouput>
+    <name>automationSuiteForYakshaApplication-Ts-5:VerifyTheSidebarCollapseButtonFunctionality</name>
+    <weight>2</weight>
+    <mandatory>true</mandatory>
+    <desc>na</desc>
+  </cases>
+  <cases xmlns:java="http://java.sun.com" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="java:com.assessment.data.TestCase">
+    <test-case-type>Suite</test-case-type>
+    <expected-ouput>true</expected-ouput>
+    <name>automationSuiteForYakshaApplication-Ts-6:VerifyLogOutFunctionality</name>
+    <weight>2</weight>
+    <mandatory>true</mandatory>
+    <desc>na</desc>
+  </cases>
+  <cases xmlns:java="http://java.sun.com" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="java:com.assessment.data.TestCase">
+    <test-case-type>Suite</test-case-type>
+    <expected-ouput>true</expected-ouput>
+    <name>automationSuiteForYakshaApplication-Ts-7:VerifyNewHolidaysCouldBeCreated</name>
+    <weight>2</weight>
+    <mandatory>true</mandatory>
+    <desc>na</desc>
+  </cases>
+  <cases xmlns:java="http://java.sun.com" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="java:com.assessment.data.TestCase">
+    <test-case-type>Suite</test-case-type>
+    <expected-ouput>true</expected-ouput>
+    <name>automationSuiteForYakshaApplication-Ts-8:VerifyPasswordMismatchErrorDisplay</name>
+    <weight>2</weight>
+    <mandatory>true</mandatory>
+    <desc>na</desc>
+  </cases>
+  <cases xmlns:java="http://java.sun.com" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="java:com.assessment.data.TestCase">
+    <test-case-type>Suite</test-case-type>
+    <expected-ouput>true</expected-ouput>
+    <name>automationSuiteForYakshaApplication-Ts-9:VerifyAdminCanAddRecord</name>
+    <weight>2</weight>
+    <mandatory>true</mandatory>
+    <desc>na</desc>
+  </cases>
+  <cases xmlns:java="http://java.sun.com" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="java:com.assessment.data.TestCase">
+    <test-case-type>Suite</test-case-type>
+    <expected-ouput>true</expected-ouput>
+    <name>automationSuiteForYakshaApplication-Ts-10:VerifyUserShouldBeDeletedFromTheTable</name>
+    <weight>2</weight>
+    <mandatory>true</mandatory>
+    <desc>na</desc>
+  </cases>
+  <cases xmlns:java="http://java.sun.com" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="java:com.assessment.data.TestCase">
+    <test-case-type>Suite</test-case-type>
+    <expected-ouput>true</expected-ouput>
+    <name>automationSuiteForYakshaApplication-Ts-11:Verify"workWeek"FormCouldBeSavedSuccessfully</name>
+    <weight>2</weight>
+    <mandatory>true</mandatory>
+    <desc>na</desc>
+  </cases>
+  <cases xmlns:java="http://java.sun.com" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="java:com.assessment.data.TestCase">
+    <test-case-type>Suite</test-case-type>
+    <expected-ouput>true</expected-ouput>
+    <name>automationSuiteForYakshaApplication-Ts-12:VerifyThePersonalDetailsGetUpdatedSuccessfully</name>
+    <weight>2</weight>
+    <mandatory>true</mandatory>
+    <desc>na</desc>
+  </cases>
+  <cases xmlns:java="http://java.sun.com" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="java:com.assessment.data.TestCase">
+    <test-case-type>Suite</test-case-type>
+    <expected-ouput>true</expected-ouput>
+    <name>automationSuiteForYakshaApplication-Ts-13:verifyWorkTelephoneCouldBeCopiedToClipboard</name>
+    <weight>2</weight>
+    <mandatory>true</mandatory>
+    <desc>na</desc>
+  </cases>
+  <cases xmlns:java="http://java.sun.com" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="java:com.assessment.data.TestCase">
+    <test-case-type>Suite</test-case-type>
+    <expected-ouput>true</expected-ouput>
+    <name>automationSuiteForYakshaApplication-Ts-14:VerifyTheMaintenanceTabOnlyAllowsAdminToAccess</name>
+    <weight>2</weight>
+    <mandatory>true</mandatory>
+    <desc>na</desc>
+  </cases>
+  <cases xmlns:java="http://java.sun.com" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="java:com.assessment.data.TestCase">
+    <test-case-type>Suite</test-case-type>
+    <expected-ouput>true</expected-ouput>
+    <name>automationSuiteForYakshaApplication-Ts-15:VerifyTheEventsAddedSuccessfullyGetsAddedToTheClaimDropdown</name>
+    <weight>2</weight>
+    <mandatory>true</mandatory>
+    <desc>na</desc>
+  </cases>
+</test-cases>
